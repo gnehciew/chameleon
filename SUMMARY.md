@@ -2,4 +2,5 @@
 
 * [chameleon](README.md)
 * [TUTORIAL](tutorial.md)
+* [Other](other.md)
 
