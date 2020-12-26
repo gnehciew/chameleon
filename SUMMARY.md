@@ -1,10 +1,10 @@
 # Table of contents
 
 * [chameleon](README.md)
-* [TUTORIAL](tutorial.md)
-* [Other](other.md)
 
 ## docs
 
 * [Untitled](docs/untitled.md)
+* [Other](docs/other.md)
+* [TUTORIAL](docs/tutorial.md)
 
